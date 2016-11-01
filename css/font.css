@@ -1,0 +1,69 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
+
+@font-face {
+  font-family: 'Nunito Regular';
+    src: url('/fonts/nunito/Nunito-Regular.woff') format('woff');
+    src: url('/fonts/nunito/Nunito-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-size: 'small';
+
+}
+
+@font-face {
+  font-family: 'Nunito Bold';
+    src: url('/fonts/nunito/Nunito-Bold.woff') format('woff');
+    src: url('/fonts/nunito/Nunito-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito Light';
+    src: url('/fonts/nunito/Nunito-Light.woff') format('woff');
+    src: url('/fonts/nunito/Nunito-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'OpenSans Regular';
+    src: url('/fonts/opensans/OpenSans-Regular.woff') format('woff');
+    src: url('/fonts/opensans/OpenSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-size: 'small';
+
+}
+
+@font-face {
+  font-family: 'OpenSans Bold';
+    src: url('/fonts/opensans/OpenSans-Bold.woff') format('woff');
+    src: url('/fonts/opensans/OpenSans-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OpenSans Semibold';
+    src: url('/fonts/opensans/OpenSans-Semibold.woff') format('woff');
+    src: url('/fonts/opensans/OpenSans-Semibold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OpenSans Light';
+    src: url('/fonts/opensans/OpenSans-Light.woff') format('woff');
+    src: url('/fonts/opensans/OpenSans-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'OpenSans Italic';
+    src: url('/fonts/opensans/OpenSans-Italic.woff') format('woff');
+    src: url('/fonts/opensans/OpenSans-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

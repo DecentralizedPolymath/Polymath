@@ -1,0 +1,18 @@
+.hello-world {
+  font-size: 25px;
+  margin: 15px;
+}
+
+.user-panel {
+  margin: 15px;
+  width: 25vw;
+  max-width: 300px;
+  align-items: center;
+  padding-top: 5vh;
+}
+
+.user-address {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 5em;
+}
