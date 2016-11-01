@@ -33,6 +33,14 @@ Ficon.prototype.render = function () {
         }),
       ]),
     ])
+      h('svg', {
+        width: '160',
+        height: '200',
+        style: {
+          // position: 'ab'
+        },
+      }),
+    ])
   )
 }
 

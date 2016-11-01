@@ -7,7 +7,6 @@ const App = require('./app')
 
 module.exports = connect(mapStateToProps)(Root)
 
-
 inherits(Root, Component)
 function Root () { Component.call(this) }
 
