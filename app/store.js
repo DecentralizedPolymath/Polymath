@@ -9,5 +9,5 @@ const rootReducer = require('./reducers')
 module.exports = configureStore
 
 function configureStore (initialState) {
-  return applyMiddleware(rootReducer, initialState)
+  return createStore(rootReducer, initialState)
 }
